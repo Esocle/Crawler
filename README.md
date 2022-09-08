@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoCrawler
 Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)
 
@@ -81,3 +82,6 @@ You can make your own crawler by changing collect_links.py
 # Issues
 
 As google site consistently changes, please make issues if it doesn't work.
+=======
+# Crawler
+>>>>>>> 83bb877320e734023ceb33e6596190ea748cbb41
